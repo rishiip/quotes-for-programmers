@@ -11,35 +11,35 @@
 
 ------------
 
-#### A language that doesn't affect the way you think about programming is not worth knowing.
+  - #### A language that doesn't affect the way you think about programming is not worth knowing.
 
-#### Walking on water and developing software from a specification are easy if both are frozen.
+  - #### Walking on water and developing software from a specification are easy if both are frozen.
 
-#### The first way you think of is highly unlikely to be the best way.
+  - #### The first way you think of is highly unlikely to be the best way.
 
-#### There's always plenty of room for improvement - in your code, in your abilities, in you.
+  - #### There's always plenty of room for improvement - in your code, in your abilities, in you.
 
-#### A misplaced decimal point will always end up where it will do the greatest damage.
+  - #### A misplaced decimal point will always end up where it will do the greatest damage.
 
-#### A good programmer looks both ways before crossing a one-way street.
+  - #### A good programmer looks both ways before crossing a one-way street.
 
-#### When debugging, novices insert corrective code; experts remove defective code.
+  - #### When debugging, novices insert corrective code; experts remove defective code.
 
-#### Sometimes it good to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.
+  - #### Sometimes it good to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.
 
-#### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+  - #### Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
 
-#### It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.
+  - #### It´s better to wait for a productive programmer to become available than it is to wait for the first available programmer to become productive.
 
-#### The collective noun for a group of programmers is a merge-conflict.
+  - #### The collective noun for a group of programmers is a merge-conflict.
 
-#### Sometimes it's OK to be a bit of an a**hole. But don't make a habit of it.
+  - #### Sometimes it's OK to be a bit of an a**hole. But don't make a habit of it.
 
-#### No one hates software more than software developers.
+  - #### No one hates software more than software developers.
 
-#### What one programmer can do in one month, two programmers can do in two months.
+  - #### What one programmer can do in one month, two programmers can do in two months.
 
-#### Good code is like a good joke: it needs no explanation.
+  - #### Good code is like a good joke: it needs no explanation.
 
 ------------
 ## Contribution Guidelines
