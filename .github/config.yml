@@ -1,0 +1,33 @@
+# Configuration for welcome - https://github.com/behaviorbot/welcome
+
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: >
+  Thanks for showing your interest in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :bowtie:
+
+  If you like this repository, don't forget to star it using `Star` button  available at top right :blush:
+
+  ![Alt](https://media0.giphy.com/media/axu6dFuca4HKM/giphy.gif)
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: >
+  Thanks for showing your interest in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :bowtie:
+
+  If you like this repository, don't forget to star it using `Star` button  available at top right :blush:
+
+  ![Alt](https://media0.giphy.com/media/axu6dFuca4HKM/giphy.gif)
+
+# Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+
+# Comment to be posted to on pull requests merged by a first time user
+firstPRMergeComment: >
+  Congrats on merging your first Pull Request!
+
+  Thanks for showing your interest in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :bowtie:
+
+  If you like this repository, don't forget to star it using `Star` button  available at top right :blush:
+
+  ![Alt](https://media0.giphy.com/media/axu6dFuca4HKM/giphy.gif)
