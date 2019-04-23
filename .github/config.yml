@@ -4,17 +4,17 @@
 
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
-  #### Thanks for showing your interest :bowtie:
-
-  #### If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :blush:
+  Thanks for showing your interest :bowtie:
+  </br>
+  If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :blush:
 
 # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >
-  #### Thanks for showing your interest :bowtie:
-
-  #### If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :blush:
+  Thanks for showing your interest :bowtie:
+  </br>
+  If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :blush:
 
 # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
 
@@ -22,6 +22,6 @@ newPRWelcomeComment: >
 firstPRMergeComment: >
   Congrats on merging your first Pull Request!
 
-  #### Thanks for showing your interest :bowtie:
-
-  #### If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :blush:
+  Thanks for showing your interest :bowtie:
+  </br>
+  If you like this repository, don't forget to star it using **`Star`** button  available at top right in [Quote For Programmers](https://github.com/rishiip/quotes-for-programmers) :blush:
